@@ -3,6 +3,7 @@ body{
     color: rgb(190, 140, 100);
     margin: 0;
     padding: 0;
+    font-family: 'Times New Roman', 'Times', 'serif';
 }
 header{
     background: rgb(10, 10, 10);
@@ -21,7 +22,7 @@ a{
     font-size: 100%;
 }
 header2{
-    margin: 
+    
 }
 section{
     margin-left: 20%;
