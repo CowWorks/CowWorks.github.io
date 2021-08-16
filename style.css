@@ -21,9 +21,10 @@ a{
     color: rgb(190, 140, 100);
     font-size: 100%;
 }
-header2{
-    
-}
+/*header2{
+    position: relative;
+    left: 10%;
+}*/
 section{
     margin-left: 20%;
     margin-right: 20%;
