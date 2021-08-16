@@ -20,6 +20,13 @@ a{
     color: rgb(190, 140, 100);
     font-size: 100%;
 }
+top{
+    
+}
+section{
+    margin-left: 20%;
+    margin-right: 20%;
+}
 /*footer{
     background: rgb(10, 10, 10);
 }*/
