@@ -1,0 +1,25 @@
+body{
+    background: rgb(30, 30, 30);
+    color: rgb(190, 140, 100);
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: rgb(10, 10, 10);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+div{
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    background: rgb(10, 10, 10);
+    color: rgb(190, 140, 100);
+    font-size: 100%;
+}
+/*footer{
+    background: rgb(10, 10, 10);
+}*/
