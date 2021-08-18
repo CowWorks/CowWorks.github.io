@@ -11,6 +11,15 @@ header{
     padding: 20px;
     display: flex;
     flex-direction: row;
+    font-size: 25px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+li{
+    margin: auto;
 }
 div{
     margin: auto;
@@ -21,14 +30,11 @@ a{
     color: rgb(190, 140, 100);
     font-size: 100%;
 }
-/*header2{
-    position: relative;
-    left: 10%;
-}*/
 section{
     margin-left: 20%;
     margin-right: 20%;
+    display: block;
 }
-/*footer{
+footer{
     background: rgb(10, 10, 10);
-}*/
+}
