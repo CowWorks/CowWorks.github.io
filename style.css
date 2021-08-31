@@ -16,17 +16,20 @@ header{
 ul{
     list-style-type: none;
     display: flex;
-    flex-direction: row;
+    flex-direction: column-reverse;
 }
 li{
-    margin: auto;
+    font-size: 45px;
+    padding: 0;
+    border-radius: 20px;
+    border-width: 20px;
+    border: black;
 }
 div{
     margin: auto;
 }
 a{
     text-decoration: none;
-    background: rgb(10, 10, 10);
     color: rgb(190, 140, 100);
     font-size: 80%;
 }
@@ -35,6 +38,9 @@ section{
     margin-right: 20%;
     /*I don't think this does anything? - display: block;*/
     padding: 0px;
+}
+p{
+    background: black;
 }
 h1{
     margin: 0;
@@ -57,6 +63,8 @@ a:hover{
     padding: 20px;
     margin-left: -20px;
     margin-right: -20px;
+    margin-top: -20px;
+    margin-bottom: -20px;
 }
 footer{
     background: rgb(10, 10, 10);
