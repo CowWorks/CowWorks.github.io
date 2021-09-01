@@ -25,6 +25,13 @@ li{
     border-width: 20px;
     border: black;
 }
+/*.htmltutorial{
+    padding-top: 110px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image: url("assets/html.png");
+}*/
 div{
     margin: auto;
 }
